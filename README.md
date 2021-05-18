@@ -4,7 +4,7 @@ Recently, [SIL International](https://www.sil.org/) launched an effort to [trans
 
 "Wash your hands" isn't enough to combat this pandemic, but it's already more than some communities are hearing. On [this guide page](https://www.ethnologue.com/guides/health) you can learn how to say the phrase in 523 different languages and counting. You can also download hand-washing posters to share in print or on social media.
 
-The hand washing posters were generated using the scripts in the repo. The scripts can handle a variety of complex scripts which cover almost all languages. We're releasing these bits of code here so you can float your own localized hand washing information on the "how to wash" template image and help spread the word!
+The hand washing posters [change] were generated using the scripts in the repo. The scripts can handle a variety of complex scripts which cover almost all languages. We're releasing these bits of code here so you can float your own localized hand washing information on the "how to wash" template image and help spread the word!
 
 ## Dependencies
 
